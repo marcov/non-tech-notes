@@ -1,7 +1,4 @@
-# Misc
-
-## Brown Bag (meeting)
-Informal meeting, lunch-time meeting (eating the food in the *brown bag*).
+# Terminology
 
 ## Count
 Word preceding count is singular.
@@ -34,44 +31,23 @@ Reading: "The first of August 2018"
   internals and behaviour. Typically built for study and analysis.
 
 ## Ground, Earth, Soil, Dirt
-**Soil**: upper layer of earth in which plants grows
-**Ground**: surface of the earth
-**Dirt**: soil that is out of place
+
+- **Soil**: upper layer of earth in which plants grows
+- **Ground**: surface of the earth
+- **Dirt**: soil that is out of place
 
 - Plant seeds in/into the soil
 - Vegetables growing below the ground
 
+## Lumber, Timber, Wood
+
 ## Numeral
-**Numeral**:
+
 - a symbol, name, or phrase that stands for a number.
 - a description of a numerical quantity.
 
-Number vs numeral vs digit:
+$_Number_ vs _numeral_ vs _digit_:
+
 * Number: idea (e.g., idea of a quantity, ...)
 * Numeral: how a number is written (using digits, words, ...)
 * (Numerical) Digit: a single symbol, used to make numerals, that represent numbers
-
-## Out of whack
-If something is out of whack, it is not working properly, often because its
-natural balance has been upset ("sbalat!").
-
-## Pet peeve
-Something that a particular person finds especially annoying.
-
-## Putting someone on the spot
-Force someone into a situation in which they must make a difficult decision or,
-answer a difficult question.
-
-## Step into someone's shoes
-Do the work of someone else
-Take a role/task that someone else has been doing
-
-## Step on someone's toes
-Do something that upset or offends someone
-
-## Take the plunge
-Decide to do something
-
-## Talk past
-**Talk past** (each other): different subjects, while believing that they are
-talking about the same thing

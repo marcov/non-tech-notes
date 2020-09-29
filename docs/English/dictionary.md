@@ -1,9 +1,11 @@
 # Dictionary
 
 ## A
-**Aquainted** (get, become): familiar, confident
+**Acquainted** (get, become): familiar, confident
 
 **Accustomed** (become): learn to live with it, deal with it
+
+**Ajar** (of a door or other opening): slightly open
 
 **Avert**:
 
@@ -54,6 +56,10 @@ Make (someone) believe something that is not true.
 **Disappointing**: "*deludente*"
 
 **Discounted**: disregarded, discarded
+
+## D
+
+**Enunciate**: say or pronounce clearly
 
 ## F
 **Flaky**: breaking easily (fragile)
