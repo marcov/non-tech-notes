@@ -25,6 +25,21 @@ Writing and reading, both are good:
 
 Reading: "The first of August 2018"
 
+## Determiner
+Words used in front of nouns to indicate whether:
+
+a. you are referring to something specified
+XOR
+b. something of a particular type.
+
+A determiner can be:
+- an article (a, the)
+- numeral (one, fifty, one hundred, ...)
+- possessive (my, his, ...)
+- quantifier (much, all, any, enough, ...)
+- predeterminer (what, which, every, ...)
+- demonstrative (this, that, ...)
+
 ## Emulator vs Simulator
 - **Emulator**: focus is to build a system used to *substitute* the real system
 - **Simulator**: focus is to build a system used to model and replicate the real system
@@ -40,6 +55,7 @@ Reading: "The first of August 2018"
 - Vegetables growing below the ground
 
 ## Lumber, Timber, Wood
+TBD
 
 ## Numeral
 

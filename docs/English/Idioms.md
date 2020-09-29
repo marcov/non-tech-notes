@@ -3,6 +3,12 @@
 ## Brown Bag (meeting)
 Informal meeting, lunch-time meeting (eating the food in the *brown bag*).
 
+## Go the extra mile
+To do more than one is required to do.
+
+## On point
+Relevant and appropriate to what is happening or being discussed.
+
 ## Out of whack
 If something is out of whack, it is not working properly, often because its
 natural balance has been upset ("sbalat!").
@@ -27,3 +33,4 @@ Decide to do something
 ## Talk past
 **Talk past** (each other): different subjects, while believing that they are
 talking about the same thing
+

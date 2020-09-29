@@ -7,6 +7,8 @@
 
 **Ajar** (of a door or other opening): slightly open
 
+**Analysis OF something**
+
 **Avert**:
 
   - prevent something bad from happening
@@ -67,6 +69,9 @@ Make (someone) believe something that is not true.
 **Foster**: encourage the development of
 
 ## G
+
+**Go through**: (for a document) search through or examine methodically
+
 **Grok**: understand (something) intuitively or by empathy, assimilate, fully comprehend
 "I am trying to grok ..."
 
@@ -88,6 +93,7 @@ before attempting a more time-consuming search elsewhere.
 **Numeral**: a symbol, name, or phrase that stands for a number
 
 ## O
+
 **Overcommit**: allow use of more resources than what it is actual available
 
 **Oversubscribe**: allow provision of more resources than what is actually available
