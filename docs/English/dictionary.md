@@ -34,7 +34,7 @@ Usually used in the phrase "put sth on the back burner"
 > they change repeatedly from one to another.
 >
 
-**Coalesce**: to unite into a whole, ("fondere")
+**Coalesce**: to unite into a whole. Ita: _Fondere_
 
 **Contingent**:
 
@@ -52,10 +52,10 @@ Usually used in the phrase "put sth on the back burner"
 **Deceive**: Persuade someone that something false is the truth or keep the truth
 hidden (similar to misleading, delude).
 
-**Delude**: NOTE: it is NOT italian "*deludere*" (that means "disappointing").
+**Delude**: NOTE: it is **NOT** Italian _Deludere_ (that means "disappointing").
 Make (someone) believe something that is not true.
 
-**Disappointing**: "*deludente*"
+**Disappointing**: Ita: _Deludente_
 
 **Discounted**: disregarded, discarded
 
@@ -111,7 +111,7 @@ before attempting a more time-consuming search elsewhere.
 **Rundown**: detailed report, summary of something
 
 ## S
-**Seize**: hold sth suddenly, decisively, strongly ("afferrare")
+**Seize**: hold sth suddenly, decisively, strongly. Ita: _Afferrare_
 
 **Sharding**: (computer engineering)
 
@@ -140,3 +140,6 @@ delay a calculation. Similar to worker thread / callback
 
 ## V
 **Vetted**: carefully examined, investigated
+
+## Y
+**Yearn**: to want something very much (with a feeling of sadness?). Ita: _Bramare_
