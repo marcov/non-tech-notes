@@ -84,7 +84,18 @@ before attempting a more time-consuming search elsewhere.
 
 **Hinder**: make it difficult, (for someone) to do sth, for sth to happen
 
+**Holistic**: parts of something are intimately interconnected, and should be viewed
+as a whole.
+
 **Hubris**: excessive pride or self-confidence
+
+## I
+
+**Idiosyncrasy**:
+
+- Personal peculiarity, mode of behaviour, or way of thought unique to someone.
+
+- (Medical) An abnormal physical reaction by an individual to a food or drug.
 
 ## M
 **Moot**: Something suggested up for discussion, often discussed

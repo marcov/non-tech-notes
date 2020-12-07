@@ -9,6 +9,9 @@ To do more than one is required to do.
 ## On point
 Relevant and appropriate to what is happening or being discussed.
 
+## One stop shop
+Where people can find most of what they need, including information, in one place.
+
 ## Out of whack
 If something is out of whack, it is not working properly, often because its
 natural balance has been upset ("sbalat!").
