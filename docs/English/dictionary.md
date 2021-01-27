@@ -72,6 +72,8 @@ Make (someone) believe something that is not true.
 
 **Go through**: (for a document) search through or examine methodically
 
+**Gratuitous**: done without a good reason, unjustified
+
 **Grok**: understand (something) intuitively or by empathy, assimilate, fully comprehend
 "I am trying to grok ..."
 
