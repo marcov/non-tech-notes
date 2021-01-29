@@ -9,6 +9,11 @@ Informal meeting, lunch-time meeting (eating the food in the *brown bag*).
 ## Go the extra mile
 To do more than one is required to do.
 
+## No frills
+- Without unnecessary extras.
+- A no-frills or no frills service or product is one for which the non-essential
+features have been removed to keep the price low.
+
 ## On point
 Relevant and appropriate to what is happening or being discussed.
 

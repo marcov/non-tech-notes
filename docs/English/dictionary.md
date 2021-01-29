@@ -34,6 +34,8 @@ Usually used in the phrase "put sth on the back burner"
 > they change repeatedly from one to another.
 >
 
+**Clunky**: _when a proper flow is lacking in writing._
+
 **Coalesce**: to unite into a whole. Ita: _Fondere_
 
 **Contingent**:
