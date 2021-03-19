@@ -122,6 +122,8 @@ as a whole.
 
 **Precis**: a summary about a speech, text, ...
 
+**Punt**: (fig.) decide not to do or include something
+
 ## R
 **Rundown**: detailed report, summary of something
 
