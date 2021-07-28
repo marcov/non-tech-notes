@@ -9,6 +9,11 @@ Informal meeting, lunch-time meeting (eating the food in the *brown bag*).
 ## Go the extra mile
 To do more than one is required to do.
 
+## Just Right
+- Perfect
+- Ideal
+- Optimal
+
 ## No frills
 - Without unnecessary extras.
 - A no-frills or no frills service or product is one for which the non-essential
@@ -24,8 +29,14 @@ Where people can find most of what they need, including information, in one plac
 If something is out of whack, it is not working properly, often because its
 natural balance has been upset ("sbalat!").
 
+## Percolating (Idea)
+When an idea percolates, it's filtered through a group of people.
+
 ## Pet peeve
 Something that a particular person finds especially annoying.
+
+## Pigeonhole
+Assign an often restrictive category; to classify.
 
 ## Putting someone on the spot
 Force someone into a situation in which they must make a difficult decision or,
@@ -45,3 +56,6 @@ Decide to do something
 **Talk past** (each other): different subjects, while believing that they are
 talking about the same thing
 
+## Tick-skinned
+If you say that someone is thick-skinned, you mean that they are not easily upset
+by criticism or unpleasantness.

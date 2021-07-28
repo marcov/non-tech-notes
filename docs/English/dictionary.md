@@ -9,6 +9,8 @@
 
 **Analysis OF something**
 
+**Assertive**: someone having or showing a confident and forceful personality.
+
 **Avert**:
 
   - prevent something bad from happening
@@ -20,6 +22,11 @@
 ## B
 **Back-burner**: a condition of low priority or temporary deferment
 Usually used in the phrase "put sth on the back burner"
+
+**Barring**: _except if_ a particular thing happens
+>
+> We should arrive at 10am, barring any unexpected delay.
+>
 
 **Beyond (all) reason**: beyond the limit of what is reasonable => to a excessive degree
 
@@ -152,11 +159,16 @@ off a larger project
 ## T
 **Tenure**: the period of time when someone holds a job
 
+**Thrill**: a sudden feeling of excitement and pleasure.
+
 **Thunk**: (computer engineering)  a subroutine used for additional calculation,
 delay a calculation. Similar to worker thread / callback
 
 ## V
 **Vetted**: carefully examined, investigated
+
+## W
+**Whimsical**: playful, and unpredictable person.
 
 ## Y
 **Yearn**: to want something very much (with a feeling of sadness?). Ita: _Bramare_
