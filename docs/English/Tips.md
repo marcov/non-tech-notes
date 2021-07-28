@@ -6,8 +6,7 @@
 
 - Do not ask to ask, just ask: https://dontasktoask.com/
 
-
-# Expressions
+# Better Expressions
 
 ## You are welcome
 
@@ -17,3 +16,24 @@
 - It was nothing!
 - Not a problem!
 - It's a pleasure!
+
+## Me Too
+
+- Positive: So _aux_ I.
+- Negative: Neither _aux_ I.
+
+Aux is one of: [am | can | would | will | do] depending on the sentence.
+
+So do I, So would I, Neither did I.
+
+## Could you repeat?
+
+- Sorry
+- I didn't (quite) (get | catch) that
+- Sorry, what was that?
+
+## Goodbye
+
+- Cheers
+- See you later
+- Right, I'm off
