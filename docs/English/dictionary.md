@@ -43,10 +43,12 @@ Usually used in the phrase "put sth on the back burner"
 
 **Clunky**: _when a proper flow is lacking in writing._
 
-**Coalesce**: to unite into a whole. Ita: _Fondere_
+**Coalesce**: to unite into a whole, to combine. Ita: _Fondere_
+
+**Cohort**: a group of people with similar characteristic
 
 **Contingent**:
-
+ - occurring only if something else happens; dependent on
  - depending on something else in the future in order to happen
  - subject to chance
    > Contingent on the weather
@@ -108,13 +110,21 @@ as a whole.
 
 - (Medical) An abnormal physical reaction by an individual to a food or drug.
 
+## K
+
+**Kosher**: Satisfying the requirements, legitimate.
+
 ## M
+**Mangle**: Ruin or spoil (a text, a file, ...)
+
 **Moot**: Something suggested up for discussion, often discussed
 
 ## N
 **Numeral**: a symbol, name, or phrase that stands for a number
 
 ## O
+
+**Offhand**: without looking for information and without thinking carefully; immediately:
 
 **Overcommit**: allow use of more resources than what it is actual available
 
@@ -132,6 +142,8 @@ as a whole.
 **Punt**: (fig.) decide not to do or include something
 
 ## R
+**Relentless**: unceasingly intense
+
 **Rundown**: detailed report, summary of something
 
 ## S
@@ -163,6 +175,8 @@ off a larger project
 
 **Thunk**: (computer engineering)  a subroutine used for additional calculation,
 delay a calculation. Similar to worker thread / callback
+
+**Troublesome**: causing difficulty or annoyance.
 
 ## V
 **Vetted**: carefully examined, investigated

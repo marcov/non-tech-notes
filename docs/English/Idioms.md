@@ -1,5 +1,7 @@
 # Idioms
 
+## About Right
+
 ## Break a leg
 Good luck.
 
@@ -13,6 +15,9 @@ To do more than one is required to do.
 - Perfect
 - Ideal
 - Optimal
+
+## Meet the Bar
+Meet the expected standard, the level; good enough.
 
 ## No frills
 - Without unnecessary extras.
