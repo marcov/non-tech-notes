@@ -110,6 +110,11 @@ as a whole.
 
 - (Medical) An abnormal physical reaction by an individual to a food or drug.
 
+## J
+
+**Jeopardize**: put (someone or something) into a situation in which there is a
+danger of loss, harm, or failure.
+
 ## K
 
 **Kosher**: Satisfying the requirements, legitimate.
@@ -138,6 +143,8 @@ as a whole.
 **Peruse**: read something in a careful way, examine carefully
 
 **Precis**: a summary about a speech, text, ...
+
+**Predate**: (pre-date!) exist or occur at a date earlier than (something).
 
 **Punt**: (fig.) decide not to do or include something
 
