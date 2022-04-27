@@ -124,6 +124,8 @@ danger of loss, harm, or failure.
 
 **Moot**: Something suggested up for discussion, often discussed
 
+**Musing**: a period of reflection or thought
+
 ## N
 **Numeral**: a symbol, name, or phrase that stands for a number
 
