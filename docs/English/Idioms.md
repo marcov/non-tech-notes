@@ -8,6 +8,10 @@ Good luck.
 ## Brown Bag (meeting)
 Informal meeting, lunch-time meeting (eating the food in the *brown bag*).
 
+## Fudge Factor
+A figure included in a calculation to account for some unquantified but
+significant phenomenon or to ensure a desired result.
+
 ## Go the extra mile
 To do more than one is required to do.
 
