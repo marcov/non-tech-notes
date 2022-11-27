@@ -126,6 +126,8 @@ MIGRAINE:
 - 150 mg coenzyme Q10.
 - daily 75 mg butterbur supplement cut migraine frequency by more than 50%.
 
+- Ketone ester and try keto diet: increases adenosine that's a vasodilator.
+- When you fast blood flow to the brain increases 30%
 
 THYROID
 
