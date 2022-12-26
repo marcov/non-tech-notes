@@ -1,43 +1,45 @@
 # Supplements
 
-Beta alanine:
+## Kind
+
+### Beta alanine
 
 - increase max anaerobic power
 
-BCAA (branched chained amino acids):
+### BCAA (branched chained amino acids)
 
 - avoid muscle loss during cut
 - builds muscles
 - supplement when not eating enough meat
 
-ZMA (Zinc aspartate, Magnesium aspartate):
+### ZMA (Zinc aspartate, Magnesium aspartate)
 
 - increase testosterone
 
-CLA (conjugated linoleic acid):
+### CLA (conjugated linoleic acid)
 
 - weight loss
 
-Curcumin
+### Curcumin
 
 - Reduce inflammation, pain, depression (long term)
 - Blood tinner (anti-coagulant)
 
-GABA (Gamma Aminobutyric Acid):
+### GABA (Gamma Aminobutyric Acid)
 
 - Improve mood, reduce stress and anxiety
 
-L-theanine:
+### L-theanine
 
 - help with relax and sleep
 - nootropic effect if taken with caffeine
 
-Vitamin K2:
+### Vitamin K2
 
 - Take mk4 or mk7.
 - Use with vit D3 to avoid deposit of calcium in arteries.
 
-Vitamin D:
+### Vitamin D
 
 - (D3 form).1000 IU per day min, better 2000IU
 - Blood test levels with 25 (hydroxy) D.
@@ -45,16 +47,16 @@ Vitamin D:
 - Insufficiency with level below 30.
 - Take with K2 (mk7 or mk4, latter maybe less side effects) to avoid calcification of arteries.
 
-Phosphatidic acid:
+### Phosphatidic acid
 
 - increase muscle gain and lean mass
 - ++fat loss
 
-Eurycoma longifolia:
+### Eurycoma longifolia
 
 - Boost Testosterone
 
-ALCAR/Carnitine:
+### ALCAR/Carnitine
 
 - for your mind, alertness.
 - MAY GIVE HYPO-THYROIDISM!
@@ -62,22 +64,22 @@ ALCAR/Carnitine:
 
 Glucosamina/Condroitina: joints & cartilage health.
 
-MSM:
+### MSM
 
 - joints and cartilage.
 - ++ thyroid.
 - Research for side effects.
 
-PASSIONFLOWER:
+### PASSIONFLOWER
 
 - Reduce stress (https://www.t-nation.com/supplements/tip-how-to-naturally-control-anxiety)
 
-Rhodiola Rosea:
+### Rhodiola Rosea
 
 - Reduce stress
 - Longer workout
 
-Magnesium:
+### Magnesium
 
 - Best form is pidolate:  "Magnesium Pidolate The New Cardiovascular Magnesium":   https://pdfs.semanticscholar.org/08a9/9cf77e29c807c4a632fe0f92645df48c8400.pdf
 - Ok: glycinate/lysinate chelate (NO OXIDE b/c of low bioavailability!)
@@ -92,34 +94,39 @@ Supplement magnesium if drinking coffee:
 - Coffee has laxative effect, and stimulates bile production
 -  => coffee can deplete magnesium
 
-Agmantine:
+### Agmantine
 
 - muscles pump
 
-Kava kava:
+### Kava kava
 
 - reduce stress
 
-Creatine:
+### Creatine
 
-- more gains...
+- More gains
+
 https://www.t-nation.com/supplements/tip-youre-taking-creatine-at-the-wrong-time
 
-Forskolin (carbonate ester):
+### Forskolin (carbonate ester)
 
 - ++ test
 - ++ fat loss
 - ++ muscle gain
 
-Zinc:
+### Zinc
+
 - Research w.r.t. selenium
 
-MTHFR C677T
+## Topic
+
+### MTHFR C677T
+
 - 1 mg of methyl folate and
 - 1 mg of methyl B12.
 —TMG
 
-MIGRAINE:
+### Migraine
 
 - Magnesium (500mg die, min. 3 months) +
 - 400 mg riboflavin (vitamin B-2) +
@@ -129,27 +136,59 @@ MIGRAINE:
 - Ketone ester and try keto diet: increases adenosine that's a vasodilator.
 - When you fast blood flow to the brain increases 30%
 
-THYROID
+### Thyroid
 
 - iodine (200mcg / day)
 - L-tyrosine (300mg / day)
 - MSM (50mg)
 - adrenal glandular supplement (if you feel more tired)
 
-SLEEPING
-- PhGABA ❌❌❌
-- CBD oil
-- 5-HTP,
+### Sleeping
+
+- PhGABA (controversial, gives addiction, **stay away**)
+- CBD oil (may lower male hormones, avoid)
+- 5-HTP
 - L-Theanine
 - Magnesium glycinate
 - (Biotest Z-12)
 
-ANXIETY
+### Anxiety
 
 - Kava kava
 - L-Theanine
 - Rhodiola
 - Passiflora
 
-Triptophan:
+### Triptophan
+
 - Relaxatation
+
+### Optimize Testosterone
+
+- Creatine 5g:
+
+  - loading is not that important
+  - no need to cycle
+  - favors conversion of ADP back to ATP
+
+- Betaine 1-3 g:
+
+  - take Betaine if elevated homocysteine or if MTHFR polimorphism.
+
+- L-Carnitine:
+  - shuttle to take nutrients from outside for Mitochondria to inside. Increase
+    density of androgen receptors.
+  - better injectable intra muscular. 500mg - 2000mg
+  - very low bioavailability when ingested, 10%. Oral : 1g up to 5g max / day
+
+  - Watch out for TMAO with high dosage of L-Carn, it’s carcinogen. Use garlic
+    extract to reduce TMAO (take 600mg garlic)
+
+  - No reason to cycle.
+
+- Vit-D3:
+
+- Boron:
+
+  - lowers SHBG. SHBG limits free T. Ideal level of free T should be about 2%
+    of total T.
