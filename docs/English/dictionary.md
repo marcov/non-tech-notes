@@ -47,6 +47,8 @@ Usually used in the phrase "put sth on the back burner"
 
 **Cohort**: a group of people with similar characteristic
 
+**Conflate**: combine two or more set of information into one
+
 **Contingent**:
  - occurring only if something else happens; dependent on
  - depending on something else in the future in order to happen
@@ -89,6 +91,8 @@ Make (someone) believe something that is not true.
 "I am trying to grok ..."
 
 ## L
+**Lingo**: a foreign language or local dialect - jargon.
+
 **Lookaside**: The technique of searching for something in a precalculated cache
 before attempting a more time-consuming search elsewhere.
 
@@ -172,6 +176,8 @@ danger of loss, harm, or failure.
   - untidy
   - inaccurate
 
+**Straddle**: (ita: _stare a cavallo_, _accavallare_, _unire con un ponte_)
+
 **Straw man proposal**: initial proposal intended to start a discussion / kick
 off a larger project
 
@@ -188,6 +194,7 @@ delay a calculation. Similar to worker thread / callback
 **Troublesome**: causing difficulty or annoyance.
 
 ## V
+**Vernacular**: language flavor, dialect - something expressed in native language
 **Vetted**: carefully examined, investigated
 
 ## W
