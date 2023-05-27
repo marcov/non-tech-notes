@@ -28,6 +28,52 @@ per le singole attività o dell’impresa di assicurazione estera. Se al 31
 dicembre le attività non sono più possedute, si fa riferimento al valore di
 mercato rilevato al termine del periodo di possesso.
 
+### Procedura semplificata
+
+In linea generale, l’Agenzia delle Entrate (coerentemente alla risposta a
+Telefisco 2016) è possibile compilare in modo semplificato il quadro RW in
+presenza di dossier titoli estero. La compilazione semplificata permette
+l’indicazione del solo valore iniziale e di quello finale complessivo del
+dossier
+
+---
+
+Per i dossier titoli, in un'ottica di semplificazione, si devono indicare solo
+il valore iniziale e il valore finale del dossier (oltre, naturalmente, ai
+giorni di possesso), non rilevando le variazioni intervenute durante l'anno e,
+soprattutto, non rilevando la composizione del dossier; non occorre, quindi,
+compilare tanti righi del quadro quante sono le attività finanziarie ricomprese
+nel dossier (circolare 27 aprile 2016, n. 14/E).
+
+Nel caso in cui le variazioni della composizione della relazione finanziaria
+siano riconducibili ad un apporto di capitale (versamento contanti,
+conferimento titoli, ecc.), il momento di avvenuta variazione dovrà essere
+considerato come discriminante temporale da cui fare discendere un nuovo
+adempimento dichiarativo.
+
+In questa circostanza, gli adempimenti dichiarativi previsti, seppure inerenti
+alla medesima relazione finanziaria, saranno duplici, cioè si dovrà indicare:
+
+in un rigo, il valore iniziale e il valore finale di detenzione immediatamente
+antecedente al momento dell'apporto; in un nuovo rigo, successivamente, il
+valore iniziale di detenzione successivo al momento dell'apporto e il valore
+finale. Inoltre, secondo quanto indicato dalle istruzioni al modello Redditi,
+il criterio prioritario per la valorizzazione delle attività finanziarie da
+indicare nel quadro RW deve essere il valore che risulta dal documento di
+rendicontazione predisposto dall'istituto finanziario estero o il valore di
+mercato, in sostanza coincidenti
+
+### Conto Corrente di appoggio
+
+Nella Circolare n. 12/E/2016 l’Agenzia delle Entrate ha indicato che è
+possibile procedere con una compilazione “unificata” per il dossier titoli
+estero che per il conto corrente estero di appoggio. Questo significa che i
+valori devono essere considerati unitariamente (modificando la regola ordinaria
+di compilazione per il conto corrente estero che, ordinariamente, richiede
+l’indicazione della giacenza media annua, scontando l’IVAFE in misura fissa di
+34,20 euro, al posto dell’imposta variabile con aliquota 0,20% in caso di
+dossier titoli).
+
 ## Quadro RT
 
 Quadro RT: qui la confusione deriva dal fatto che esistono due obblighi
