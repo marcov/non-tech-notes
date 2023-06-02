@@ -68,3 +68,6 @@ talking about the same thing
 ## Tick-skinned
 If you say that someone is thick-skinned, you mean that they are not easily upset
 by criticism or unpleasantness.
+
+## What's the catch
+Question asked when an offer is too good to be true.
