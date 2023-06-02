@@ -91,6 +91,9 @@ Make (someone) believe something that is not true.
 "I am trying to grok ..."
 
 ## L
+
+**Lenient**: more tolerant, not as severe or strong in punishment or judgement.
+
 **Lingo**: a foreign language or local dialect - jargon.
 
 **Lookaside**: The technique of searching for something in a precalculated cache
@@ -156,6 +159,8 @@ danger of loss, harm, or failure.
 
 ## R
 **Relentless**: unceasingly intense
+
+**Reluctant**: unwilling and hesitant (ita: _restio_).
 
 **Rundown**: detailed report, summary of something
 
