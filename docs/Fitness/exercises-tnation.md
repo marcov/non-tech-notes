@@ -1,5 +1,3 @@
-# Fitness Misc
-
 ## Exercises
 
 - 4 Tests Every Lifter Should Be Able to Pass
@@ -36,19 +34,6 @@ https://www.t-nation.com/training/tip-the-forward-head-posture-fix
 
 https://www.t-nation.com/training/dips-youre-doing-them-wrong
 
-- Injury / pain
-
-- Saphenous Nerve Entrapment Neuropathy: http://www.dynamicchiropractic.com/mpacms/dc/article.php?id=40242
-
-    * Sometimes reaching as far as the metatarsophalangeal joint of the great
-      toe.
-
-    * Mechanisms for production of saphenous nerve neuropathy may be
-      nontraumatic, traumatic, or post-surgical. Due to the angulation of the
-      saphenous nerve over the sartorius muscle tendon after exiting from the
-      adductor canal, traction on the nerve may be produced by limb movement
-      leading to inflammation, edema, and paresthesia.3
-
 - Triceps + ABS together:
 
 They're basically leaning triceps pushdowns. To do these, step away from the
@@ -68,7 +53,20 @@ https://www.t-nation.com/training/the-cure-for-weak-glutes
 
 https://www.t-nation.com/training/truth-about-barefoot-training
 
-## Rings
+## Injury / pain
+
+- Saphenous Nerve Entrapment Neuropathy: http://www.dynamicchiropractic.com/mpacms/dc/article.php?id=40242
+
+    * Sometimes reaching as far as the metatarsophalangeal joint of the great
+      toe.
+
+    * Mechanisms for production of saphenous nerve neuropathy may be
+      nontraumatic, traumatic, or post-surgical. Due to the angulation of the
+      saphenous nerve over the sartorius muscle tendon after exiting from the
+      adductor canal, traction on the nerve may be produced by limb movement
+      leading to inflammation, edema, and paresthesia.3
+
+### Rings
 
 - Biceps: Bodyweight curls
 
@@ -86,12 +84,3 @@ https://www.t-nation.com/training/truth-about-barefoot-training
 - Rear Delts: Shoulder finisher
 
   https://www.t-nation.com/videos/tip-the-3-way-shoulder-finisher
-
-## Testosterone
-
-https://www.t-nation.com/pharma/testosterone-body-composition-and-sex
-
-https://www.t-nation.com/living/keep-estrogen-under-control
-
-https://www.t-nation.com/living/american-men-as-fertile-as-dead-hamsters
-
