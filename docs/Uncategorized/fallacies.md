@@ -33,3 +33,18 @@ Follow the crowd instead of making decisions independently.
 
 E.g.:
 - invest in crypto.
+
+## Sunk cost fallacy
+
+Enduring in a strategy that results in money loss, only because we have
+invested largely into it, even if it is clear that stopping that strategy would
+be more beneficial.
+
+## Straw man fallacy
+
+Refute an argument, only by addressing a wrong, weak or distorted version of it:
+
+- extremize the argument
+- using edge cases
+- using exceptions as the normality
+- simplifying too much
