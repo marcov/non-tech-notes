@@ -1,6 +1,7 @@
 # Dictionary
 
 ## A
+
 **Acquainted** (get, become): familiar, confident
 
 **Accustomed** (become): learn to live with it, deal with it
@@ -18,6 +19,9 @@
   > Crisis averted
   >
   - turn away eyes or thoughts
+
+**Attrition**: departure of employees from the organization for any reason
+(resignation, retirement, ...).
 
 ## B
 **Back-burner**: a condition of low priority or temporary deferment
