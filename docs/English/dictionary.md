@@ -10,6 +10,11 @@
 
 **Analysis OF something**
 
+**Ascribable**:
+
+- Capable of being assigned to.
+- Attributable to.
+
 **Assertive**: someone having or showing a confident and forceful personality.
 
 **Avert**:
@@ -54,17 +59,18 @@ Usually used in the phrase "put sth on the back burner"
 **Conflate**: combine two or more set of information into one
 
 **Contingent**:
- - occurring only if something else happens; dependent on
- - depending on something else in the future in order to happen
- - subject to chance
-   > Contingent on the weather
+
+- occurring only if something else happens; dependent on
+- depending on something else in the future in order to happen
+- subject to chance
+  > Contingent on the weather
 
 **Copacetic**: in perfect order, completely satisfactory.
 
 ## D
 **Deemed**:
 
-  - to consider or judge something in a particular way
+- to consider or judge something in a particular way
 
 **Deceive**: Persuade someone that something false is the truth or keep the truth
 hidden (similar to misleading, delude).
@@ -180,10 +186,10 @@ danger of loss, harm, or failure.
 
 **Sloppy**:
 
-  - very wet
-  - loose
-  - untidy
-  - inaccurate
+- very wet
+- loose
+- untidy
+- inaccurate
 
 **Straddle**: (ita: _stare a cavallo_, _accavallare_, _unire con un ponte_)
 
@@ -203,7 +209,7 @@ delay a calculation. Similar to worker thread / callback
 **Troublesome**: causing difficulty or annoyance.
 
 ## V
-**Vernacular**: language flavor, dialect - something expressed in native language
+**Vernacular**: language flavor, dialect - something expressed in native language.
 **Vetted**: carefully examined, investigated
 
 ## W
