@@ -182,6 +182,15 @@ danger of loss, harm, or failure.
 - method of splitting and storing a single logical dataset in multiple databases
 - horizontal partition of data in a database
 
+**Simplicistic**: not to be confused with _simplified_
+
+- treating complex issues and problems as if they were much simpler than they
+  really are.
+
+**Simplified**:
+
+- make (something) simpler or easier to do or understand.
+
 **Snail mail**: ordinary mail (as opposed to email)
 
 **Sloppy**:
