@@ -47,6 +47,11 @@
 - Insufficiency with level below 30.
 - Take with K2 (mk7 or mk4, latter maybe less side effects) to avoid calcification of arteries.
 
+### Omega 3
+
+- Anti-inflammatory
+- Take IFOS-certified: https://certifications.nutrasource.ca/certified-products?type=certification&value=IFOS
+
 ### Phosphatidic acid
 
 - increase muscle gain and lean mass
@@ -107,6 +112,12 @@ Supplement magnesium if drinking coffee:
 - More gains
 
 https://www.t-nation.com/supplements/tip-youre-taking-creatine-at-the-wrong-time
+
+- Not only for muscles, but also for brain and cognitive performance.
+
+- Monoidrate is good enough
+
+- MUST DRINK ENOUGH!
 
 ### Forskolin (carbonate ester)
 
