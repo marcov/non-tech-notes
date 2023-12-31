@@ -41,7 +41,8 @@
 
 ### Vitamin D
 
-- (D3 form).1000 IU per day min, better 2000IU
+- Amount (D3 form): 1000 IU per day min, better 2000 IU. Hubermann/Attia take
+  5000 IU.
 - Blood test levels with 25 (hydroxy) D.
 - Good also for sleeping.
 - Insufficiency with level below 30.

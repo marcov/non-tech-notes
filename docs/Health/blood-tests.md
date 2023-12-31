@@ -1,37 +1,57 @@
 # Blood Tests
 
-Omocisteina
-Ferritina
-T3/T4
-B6 AND B12
-D
-RBC Folate
+## What to test and why
 
- complete thyroid (FT3, FT4, RT3, Tsh, TBG).
- thyroid antibodies
+CAD, MTHFR:
 
-Testosterone
-Free Test
-Estrogeni: Estradiol
-Sex hormone-binding globulin (SHBG)
+- Omocisteina
+- Ferritina
+
+Thyroid health:
+
+- T3/T4
+- B6 AND B12
+
+- Vit. D
+
+- RBC Folate
+
+- complete thyroid (FT3, FT4, RT3, Tsh, TBG).
+- thyroid antibodies
+
+Hormones:
+
+- Total Testosterone
+- Free Test
+- Estrogeni: Estradiol
+- Sex hormone-binding globulin (SHBG)
 
 http://www.allthingsmale.com/community/forums/male-health-hrt.2/
 
-
 Sources:
-Gs192 mutation: https://www.reddit.com/r/SNPedia/comments/55q55y/gs921_rs1801133ct_rs1801131ac/
 
-https://selfhacked.com/2016/05/18/need-know-mthfr-genespolymorphisms-c677t-rs1801133/
+- Gs192 mutation:
+  - https://www.reddit.com/r/SNPedia/comments/55q55y/gs921_rs1801133ct_rs1801131ac/
+  - https://selfhacked.com/2016/05/18/need-know-mthfr-genespolymorphisms-c677t-rs1801133/
 
-, it would behoove you to consider getting your RBC Folate (this is a measure of your functional folate, serum folate level is useless for people with an MTHFR mutation because it counts all the folate your body can't use, giving you a false idea of your folate status)
+It would behoove you to consider getting your RBC Folate (this is a measure of
+your functional folate, serum folate level is useless for people with an MTHFR
+mutation because it counts all the folate your body can't use, giving you a
+false idea of your folate status) vitamin B12, and homocysteine levels checked.
 
- vitamin B12, and
- homocysteine levels checked.
+If your functional folate is significantly or severely impaired, impacting your
+vitamin B12 and homocysteine levels, it could have a measurable negative impact
+on your health such as hypocobalaminemia which can lead to pernicious anemia as
+well as neurological and psychiatric complications. It could also lead to
+hyperhomocystenemia, which can have significant consequences for your long term
+cardiac and neurovascular health.
 
-If your functional folate is significantly or severely impaired, impacting your vitamin B12 and homocysteine levels, it could have a measurable negative impact on your health such as hypocobalaminemia which can lead to pernicious anemia as well as neurological and psychiatric complications. It could also lead to hyperhomocystenemia, which can have significant consequences for your long term cardiac and neurovascular health.
-
-If your RBC folate is indeed below the normal range, you can treat is very easily with one simple supplement, L-5-methyltetrahydrofolate. This is the form that MTHFR makes as part of the folate pathway. By taking that as a supplement, you basically leapfrog the MTHFR enzyme that isn't working correctly and give the next step in the pathway exactly what it needs to continue on as normal. So, fortunately, its very easy, and should be cheap, to fix.
-
+If your RBC folate is indeed below the normal range, you can treat is very
+easily with one simple supplement, L-5-methyltetrahydrofolate. This is the form
+that MTHFR makes as part of the folate pathway. By taking that as a supplement,
+you basically leapfrog the MTHFR enzyme that isn't working correctly and give
+the next step in the pathway exactly what it needs to continue on as normal. So,
+fortunately, its very easy, and should be cheap, to fix.
 
 ## Listing
 Category Entry Price Pkt uomo Pkt anemia TOTALE

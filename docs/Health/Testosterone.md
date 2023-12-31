@@ -1,4 +1,5 @@
 ## #Testosterone
+
 From #Huberman: https://ogjre.com/episode/1683-andrew-huberman
 
 - The main mental effect of [[testosterone]], is that if makes effort feels good
