@@ -100,6 +100,16 @@ Make (someone) believe something that is not true.
 **Grok**: understand (something) intuitively or by empathy, assimilate, fully comprehend
 "I am trying to grok ..."
 
+## H
+
+**Hoist**:
+
+ - lift vertically, raise something, either physically or figuratively.
+
+ - data hoisting (javascript): move declaration of variables and functions to
+   the top of the current scope - this allows variables to be used before their
+   declaration.
+
 ## L
 
 **Lenient**: more tolerant, not as severe or strong in punishment or judgement.
@@ -218,7 +228,17 @@ delay a calculation. Similar to worker thread / callback
 **Troublesome**: causing difficulty or annoyance.
 
 ## V
+
 **Vernacular**: language flavor, dialect - something expressed in native language.
+
+**Vestigial**:
+
+ - (biology) functionless, serving no purpose.
+
+ - something that has become obsolete.
+
+ - having no practical purpose, application, or interpretation.
+
 **Vetted**: carefully examined, investigated
 
 ## W
