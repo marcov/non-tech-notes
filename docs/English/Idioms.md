@@ -2,6 +2,11 @@
 
 ## About Right
 
+## All over the place
+
+- In a disorganized or confused state
+- Everywhere
+
 ## Break a leg
 Good luck.
 
@@ -26,6 +31,11 @@ To do more than one is required to do.
 
 ## Meet the Bar
 Meet the expected standard, the level; good enough.
+
+## Named after
+
+To intentionally give someone or something the same name or a derivation of the
+same name as another person, place, or thing.
 
 ## No frills
 - Without unnecessary extras.
