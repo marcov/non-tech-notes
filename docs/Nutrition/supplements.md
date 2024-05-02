@@ -73,13 +73,20 @@ Joints & cartilage health.
 
 ### Magnesium
 
+Rhonda Patrick:
+
+- Rda is 350 mg
+- Any of citrate, malate, glycinate are good supplemental sources
+- Men take 420mg/day
+- Take mixed, both organic and inorganic
+
 - Best form is pidolate:
   - "Magnesium Pidolate The New Cardiovascular Magnesium": https://pdfs.semanticscholar.org/08a9/9cf77e29c807c4a632fe0f92645df48c8400.pdf
 - Ok: glycinate/lysinate chelate (NO OXIDE b/c of low bioavailability!)
 - Migraine, Anxiety
 - Amount: 400mg / 500mg
 - Competes for absorption with calcium, so better supplement both.
-
+- NOTE: High zinc inhibits absorption.
 - Glycinate best for sleep
 - Supplement magnesium if drinking coffee:
 
@@ -93,6 +100,7 @@ Joints & cartilage health.
 
 - Anti-inflammatory
 - Take IFOS-certified: https://certifications.nutrasource.ca/certified-products?type=certification&value=IFOS
+- Take 2 grams per day - test using Omega-3 index blood test.
 
 ### Passion flower
 
@@ -137,7 +145,7 @@ Joints & cartilage health.
 
 - 1 mg of methyl folate and
 - 1 mg of methyl B12.
-—TMG
+— TMG
 
 ### Migraine
 
@@ -148,6 +156,11 @@ Joints & cartilage health.
 
 - Ketone ester and try keto diet: increases adenosine that's a vasodilator.
 - When you fast blood flow to the brain increases 30%
+
+Rhonda Patrick: https://m.youtube.com/watch?v=G8FhKbsGhWU&t=238s
+
+- Migraine: 600mg per day of magnesium, split in 200mg x 3 doses.
+- Better organic form (glycinate) and different forms in one supplement
 
 ### Thyroid
 
