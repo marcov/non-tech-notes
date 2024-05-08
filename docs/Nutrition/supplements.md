@@ -2,6 +2,16 @@
 
 ## Kind
 
+### Agmantine
+
+- muscles pump
+
+### ALCAR / Carnitine
+
+- for your mind, alertness.
+- MAY GIVE HYPO-THYROIDISM!
+- Reverse brain damage: http://www.tandfonline.com/doi/full/10.1080/02791072.2011.566489
+
 ### Beta alanine
 
 - increase max anaerobic power
@@ -12,27 +22,99 @@
 - builds muscles
 - supplement when not eating enough meat
 
-### ZMA (Zinc aspartate, Magnesium aspartate)
-
-- increase testosterone
-
 ### CLA (conjugated linoleic acid)
 
 - weight loss
+
+### Creatine
+
+- MUST DRINK ENOUGH!
+- More gains: https://www.t-nation.com/supplements/tip-youre-taking-creatine-at-the-wrong-time
+- Not only for muscles, but also for brain and cognitive performance.
+- Monoidrate is good enough
 
 ### Curcumin
 
 - Reduce inflammation, pain, depression (long term)
 - Blood tinner (anti-coagulant)
 
+### Eurycoma longifolia
+
+- Boost Testosterone
+
+### Forskolin (carbonate ester)
+
+- ++ test
+- ++ fat loss
+- ++ muscle gain
+
 ### GABA (Gamma Aminobutyric Acid)
 
 - Improve mood, reduce stress and anxiety
+
+## Glucosamina/Condroitina
+
+Joints & cartilage health.
+
+### Kava kava
+
+- reduce stress
 
 ### L-theanine
 
 - help with relax and sleep
 - nootropic effect if taken with caffeine
+
+### MSM
+
+- joints and cartilage.
+- ++ thyroid.
+- Research for side effects.
+
+### Magnesium
+
+Rhonda Patrick:
+
+- Rda is 350 mg
+- Any of citrate, malate, glycinate are good supplemental sources
+- Men take 420mg/day
+- Take mixed, both organic and inorganic
+
+- Best form is pidolate:
+  - "Magnesium Pidolate The New Cardiovascular Magnesium": https://pdfs.semanticscholar.org/08a9/9cf77e29c807c4a632fe0f92645df48c8400.pdf
+- Ok: glycinate/lysinate chelate (NO OXIDE b/c of low bioavailability!)
+- Migraine, Anxiety
+- Amount: 400mg / 500mg
+- Competes for absorption with calcium, so better supplement both.
+- NOTE: High zinc inhibits absorption.
+- Glycinate best for sleep
+- Supplement magnesium if drinking coffee:
+
+    - Gallbladder holds bile
+    - Bile contains magnesium and calcium
+    - Bile goes in the feces, hence magnesium also goes there
+    - Coffee has laxative effect, and stimulates bile production
+    -  => coffee can deplete magnesium
+
+### Omega 3
+
+- Anti-inflammatory
+- Take IFOS-certified: https://certifications.nutrasource.ca/certified-products?type=certification&value=IFOS
+- Take 2 grams per day - test using Omega-3 index blood test.
+
+### Passion flower
+
+- Reduce stress (https://www.t-nation.com/supplements/tip-how-to-naturally-control-anxiety)
+
+### Phosphatidic acid
+
+- increase muscle gain and lean mass
+- ++fat loss
+
+### Rhodiola Rosea
+
+- Reduce stress
+- Longer workout
 
 ### Vitamin K2
 
@@ -41,94 +123,21 @@
 
 ### Vitamin D
 
-- Amount (D3 form): 1000 IU per day min, better 2000 IU. Hubermann/Attia take
-  5000 IU.
+- Amount (D3 form): 1000 IU per day min, better 2000 IU.
+  * Hubermann/Attia take 5000 IU.
+  * Rhonda Patrick suggest 4000IU, max safe dose.
 - Blood test levels with 25 (hydroxy) D.
 - Good also for sleeping.
 - Insufficiency with level below 30.
 - Take with K2 (mk7 or mk4, latter maybe less side effects) to avoid calcification of arteries.
 
-### Omega 3
-
-- Anti-inflammatory
-- Take IFOS-certified: https://certifications.nutrasource.ca/certified-products?type=certification&value=IFOS
-
-### Phosphatidic acid
-
-- increase muscle gain and lean mass
-- ++fat loss
-
-### Eurycoma longifolia
-
-- Boost Testosterone
-
-### ALCAR/Carnitine
-
-- for your mind, alertness.
-- MAY GIVE HYPO-THYROIDISM!
-- http://www.tandfonline.com/doi/full/10.1080/02791072.2011.566489
-
-Glucosamina/Condroitina: joints & cartilage health.
-
-### MSM
-
-- joints and cartilage.
-- ++ thyroid.
-- Research for side effects.
-
-### PASSIONFLOWER
-
-- Reduce stress (https://www.t-nation.com/supplements/tip-how-to-naturally-control-anxiety)
-
-### Rhodiola Rosea
-
-- Reduce stress
-- Longer workout
-
-### Magnesium
-
-- Best form is pidolate:  "Magnesium Pidolate The New Cardiovascular Magnesium":   https://pdfs.semanticscholar.org/08a9/9cf77e29c807c4a632fe0f92645df48c8400.pdf
-- Ok: glycinate/lysinate chelate (NO OXIDE b/c of low bioavailability!)
-- Migraine, Anxiety
-- Amount: 400mg / 500mg
-- Competes for absorption with calcium, so better supplement both.
-Glycinate best for sleep
-Supplement magnesium if drinking coffee:
-- Gallbladder holds bile
-- Bile contains magnesium and calcium
-- Bile goes in the feces, hence magnesium also goes there
-- Coffee has laxative effect, and stimulates bile production
--  => coffee can deplete magnesium
-
-### Agmantine
-
-- muscles pump
-
-### Kava kava
-
-- reduce stress
-
-### Creatine
-
-- More gains
-
-https://www.t-nation.com/supplements/tip-youre-taking-creatine-at-the-wrong-time
-
-- Not only for muscles, but also for brain and cognitive performance.
-
-- Monoidrate is good enough
-
-- MUST DRINK ENOUGH!
-
-### Forskolin (carbonate ester)
-
-- ++ test
-- ++ fat loss
-- ++ muscle gain
-
 ### Zinc
 
 - Research w.r.t. selenium
+
+### ZMA (Zinc aspartate, Magnesium aspartate)
+
+- increase testosterone
 
 ## Topic
 
@@ -136,7 +145,7 @@ https://www.t-nation.com/supplements/tip-youre-taking-creatine-at-the-wrong-time
 
 - 1 mg of methyl folate and
 - 1 mg of methyl B12.
-—TMG
+— TMG
 
 ### Migraine
 
@@ -147,6 +156,11 @@ https://www.t-nation.com/supplements/tip-youre-taking-creatine-at-the-wrong-time
 
 - Ketone ester and try keto diet: increases adenosine that's a vasodilator.
 - When you fast blood flow to the brain increases 30%
+
+Rhonda Patrick: https://m.youtube.com/watch?v=G8FhKbsGhWU&t=238s
+
+- Migraine: 600mg per day of magnesium, split in 200mg x 3 doses.
+- Better organic form (glycinate) and different forms in one supplement
 
 ### Thyroid
 
@@ -173,7 +187,7 @@ https://www.t-nation.com/supplements/tip-youre-taking-creatine-at-the-wrong-time
 
 ### Triptophan
 
-- Relaxatation
+- Relaxation
 
 ### Optimize Testosterone
 
@@ -198,9 +212,12 @@ https://www.t-nation.com/supplements/tip-youre-taking-creatine-at-the-wrong-time
 
   - No reason to cycle.
 
-- Vit-D3:
+- Vit D
+
+- Zinc
 
 - Boron:
 
   - lowers SHBG. SHBG limits free T. Ideal level of free T should be about 2%
     of total T.
+

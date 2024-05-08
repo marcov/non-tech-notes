@@ -2,12 +2,12 @@
 
 ## What to test and why
 
-CAD, MTHFR:
+### CAD, MTHFR
 
 - Omocisteina
 - Ferritina
 
-Thyroid health:
+### Thyroid health
 
 - T3/T4
 - B6 AND B12
@@ -19,7 +19,11 @@ Thyroid health:
 - complete thyroid (FT3, FT4, RT3, Tsh, TBG).
 - thyroid antibodies
 
-Hormones:
+### Omega-3
+
+Indice Omega-3: ideal levels >= 8% (Rhonda Patrick)
+
+### Hormones
 
 - Total Testosterone
 - Free Test
@@ -54,6 +58,7 @@ the next step in the pathway exactly what it needs to continue on as normal. So,
 fortunately, its very easy, and should be cheap, to fix.
 
 ## Listing
+
 Category Entry Price Pkt uomo Pkt anemia TOTALE
 Generale
 Emocromocitometrico con formula 5 x x Senza Pkt 465.5
