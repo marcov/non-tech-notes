@@ -37,7 +37,11 @@ Usually used in the phrase "put sth on the back burner"
 > We should arrive at 10am, barring any unexpected delay.
 >
 
-**Beyond (all) reason**: beyond the limit of what is reasonable => to a excessive degree
+**Bespoke**: something (e.g. a solution or implementation) done for a
+particular use or customer
+
+**Beyond (all) reason**: beyond the limit of what is reasonable => to a
+excessive degree
 
 **Bummer**: disappointing
 
@@ -238,6 +242,10 @@ off a larger project
 delay a calculation. Similar to worker thread / callback
 
 **Troublesome**: causing difficulty or annoyance.
+
+**Turnaround**: the process of completing or the time needed to complete a
+task, especially one involving receiving something, processing it, and sending
+it out again.
 
 ## V
 
