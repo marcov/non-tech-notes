@@ -71,6 +71,8 @@ excessive degree
 
 **Copacetic**: in perfect order, completely satisfactory.
 
+**Cutover** / **cut over**: change from an old (computer) system to a new one
+
 ## D
 **Deemed**:
 
@@ -187,6 +189,9 @@ danger of loss, harm, or failure.
 **Predate**: (pre-date!) exist or occur at a date earlier than (something).
 
 **Prescient**: showing knowledge of events before they happen. ita: _premonitore_, _lungimirante_.
+
+**Prescriptive**: Imposing a rule or method. Saying exactly what must be done.
+"_I don't want to be prescriptive_"
 
 **Punt**: (fig.) decide not to do or include something
 

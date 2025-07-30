@@ -61,6 +61,10 @@ Something that a particular person finds especially annoying.
 ## Pigeonhole
 Assign an often restrictive category; to classify.
 
+## Pull the andon cord
+
+Notify managers & upper levels of a problem.
+
 ## Putting someone on the spot
 Force someone into a situation in which they must make a difficult decision or,
 answer a difficult question.
