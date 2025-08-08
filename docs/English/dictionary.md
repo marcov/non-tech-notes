@@ -37,7 +37,11 @@ Usually used in the phrase "put sth on the back burner"
 > We should arrive at 10am, barring any unexpected delay.
 >
 
-**Beyond (all) reason**: beyond the limit of what is reasonable => to a excessive degree
+**Bespoke**: something (e.g. a solution or implementation) done for a
+particular use or customer
+
+**Beyond (all) reason**: beyond the limit of what is reasonable => to a
+excessive degree
 
 **Bummer**: disappointing
 
@@ -67,6 +71,8 @@ Usually used in the phrase "put sth on the back burner"
 
 **Copacetic**: in perfect order, completely satisfactory.
 
+**Cutover** / **cut over**: change from an old (computer) system to a new one
+
 ## D
 **Deemed**:
 
@@ -82,9 +88,11 @@ Make (someone) believe something that is not true.
 
 **Discounted**: disregarded, discarded
 
-## D
+## E
 
 **Enunciate**: say or pronounce clearly
+
+**Entail**: consist in, require or involve as a consequence
 
 ## F
 **Flaky**: breaking easily (fragile)
@@ -137,6 +145,9 @@ as a whole.
 
 - (Medical) An abnormal physical reaction by an individual to a food or drug.
 
+**Inconsequential**: irrelevant, making no difference, not important, that can
+be ignored.
+
 ## J
 
 **Jeopardize**: put (someone or something) into a situation in which there is a
@@ -171,11 +182,21 @@ danger of loss, harm, or failure.
 
 **Peruse**: read something in a careful way, examine carefully
 
+**Prandial**: related to a meal (lunch or dinner)
+
 **Precis**: a summary about a speech, text, ...
 
 **Predate**: (pre-date!) exist or occur at a date earlier than (something).
 
+**Prescient**: showing knowledge of events before they happen. ita: _premonitore_, _lungimirante_.
+
+**Prescriptive**: Imposing a rule or method. Saying exactly what must be done.
+"_I don't want to be prescriptive_"
+
 **Punt**: (fig.) decide not to do or include something
+
+**Purview**: the scope, the responsibility - boundaries of what is covered in a
+specific situation - ita: _ambito_
 
 ## R
 **Relentless**: unceasingly intense
@@ -227,9 +248,14 @@ delay a calculation. Similar to worker thread / callback
 
 **Troublesome**: causing difficulty or annoyance.
 
+**Turnaround**: the process of completing or the time needed to complete a
+task, especially one involving receiving something, processing it, and sending
+it out again.
+
 ## V
 
-**Vernacular**: language flavor, dialect - something expressed in native language.
+**Vernacular**: language flavor, dialect - language used every day in a
+specific community.
 
 **Vestigial**:
 
@@ -242,6 +268,9 @@ delay a calculation. Similar to worker thread / callback
 **Vetted**: carefully examined, investigated
 
 ## W
+
+**Whim**: mild inclination or weak desire.
+
 **Whimsical**: playful, and unpredictable person.
 
 ## Y
