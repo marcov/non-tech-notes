@@ -29,10 +29,16 @@ Basing your decision only on the most recent information.
 >
 
 ## Herding Bias
+
 Follow the crowd instead of making decisions independently.
 
 E.g.:
 - invest in crypto.
+
+## Survivorship Bias
+
+Only look at a small biased sample of a population to make conclusions about the
+general population. The sample are the "survivors".
 
 ## Sunk cost fallacy
 

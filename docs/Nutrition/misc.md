@@ -106,3 +106,7 @@ https://www.t-nation.com/supplements/2-most-anabolic-hours-of-the-day
 
 Cocoa may have high levels of cadmium. High level of cadmium are associated to
 kidney disease and potential insuline resistance.
+
+### Iodine
+
+Foods high in iodine: https://rapsol.dk/En/ct066.php

@@ -16,10 +16,18 @@
 
 ## Tassazione strumenti finanziari
 
+### Azioni
+
+- Se in regime amministrato, plus/minus si calcola sul prezzo medio di carico
+- Se in regime dichiarativo, plus/minus si calcola in modalita' LIFO
+
 ### ETF armonizzati
 
 - Plusvalenze: **redditi da capitale**.
 - Minusvalenze: redditi diversi.
+
+Non e' chiaro se, in regime dichiarativo, va usato LIFO oppure prezzo medio di
+carico. Alcune fonti dicono LIFO, altre no (e.g. Coletti).
 
 ### ETF non armonizzati
 
